@@ -35,6 +35,6 @@
 ## Future Development
 As a software development student, I am committed to continuous improvements and enhancements for myonetap.ca. Future developments may include adding new features, further performance optimizations, and additional SEO enhancements.
 
-For inquiries or collaboration opportunities, please contact me at [your@email.com](mailto:ibrahim.lahmar@mohawkcollege.ca).
+For inquiries or collaboration opportunities, please contact me at [ibrahim.lahmar@mohawkcollege.ca](mailto:ibrahim.lahmar@mohawkcollege.ca).
 
 Explore the technical aspects of the website and the project by visiting [myonetap.com](https://www.myonetap.com).
