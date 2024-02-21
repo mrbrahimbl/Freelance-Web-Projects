@@ -35,6 +35,6 @@
 ## Future Development
 As a software development student, I am committed to ongoing improvements and enhancements for mmoving.ca. Future developments may include new features, performance enhancements, and further SEO optimizations.
 
-For any inquiries or collaboration opportunities, please contact me at [your@email.com](mailto:ibrahim.lahmar@mohawkcollege.ca).
+For any inquiries or collaboration opportunities, please contact me at [ibrahim.lahmar@mohawkcollege.ca](mailto:ibrahim.lahmar@mohawkcollege.ca).
 
 Explore the technical aspects of the website and the project by visiting [mmoving.ca](https://www.mmoving.ca).
