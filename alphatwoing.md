@@ -27,6 +27,6 @@
 ## Future Development
 As a software development student, I remain committed to ongoing improvements and enhancements for alpha-towing.ca. Potential future developments may include new features, further performance enhancements, and additional SEO optimizations.
 
-For any inquiries or collaboration opportunities, please contact me at [your@email.com](mailto:ibrahim.lahmar@mohawkcollege.ca).
+For any inquiries or collaboration opportunities, please contact me at [ibrahim.lahmar@mohawkcollege.ca](mailto:ibrahim.lahmar@mohawkcollege.ca).
 
 Explore the technical aspects of the website and the project by visiting [alpha-towing.ca](https://www.alpha-towing.ca).
