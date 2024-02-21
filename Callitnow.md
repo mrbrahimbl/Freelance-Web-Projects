@@ -45,6 +45,6 @@ As the developer of CallItNow.ca, I am committed to ongoing improvements and enh
 - Expansion of payment options and integration with additional payment gateways.
 - Implementation of AI-driven chatbots for enhanced customer support automation.
 
-For inquiries or collaboration opportunities, please contact me at [your@email.com](mailto:your@email.com).
+For inquiries or collaboration opportunities, please contact me at [ibrahim.lahmar@mohawkcollege.ca](mailto:ibrahim.lahmar@mohawkcollege.ca).
 
 Explore the technical aspects of the website and the project by visiting [CallItNow.ca](https://www.callitnow.ca).
