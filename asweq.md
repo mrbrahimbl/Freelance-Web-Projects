@@ -28,4 +28,4 @@
 ## Future Development
 As a software development student, I continue to work on enhancing this e-commerce platform. Future developments may include additional features, optimizations, and performance improvements.
 
-Feel free to explore my website and the technical aspects of the project. For any inquiries or collaboration opportunities, please contact me at [your@email.com](mailto:ibrahim.lahmar@mohawkcollege.com).
+Feel free to explore my website and the technical aspects of the project. For any inquiries or collaboration opportunities, please contact me at [ibrahim.lahmar@mohawkcollege.ca](mailto:ibrahim.lahmar@mohawkcollege.com).
